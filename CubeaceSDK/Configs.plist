@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gameId</key>
+	<string>1</string>
+	<key>GoogleSignInClientID</key>
+	<string>698427219128-o1c72e1osgkg0kv8m5amlik9pbvjll56.apps.googleusercontent.com</string>
+	<key>GameAnalyticsKey</key>
+	<string>cbbc05f850ec64e449515988e3fb4f2c</string>
+	<key>GameAnalyticsSecret</key>
+	<string>0bba533320619d9432cef1bd46857ce31fc7fdd1</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module CubeaceSDK {
+  umbrella header "CubeaceSDK.h"
+
+  export *
+  module * { export * }
+}

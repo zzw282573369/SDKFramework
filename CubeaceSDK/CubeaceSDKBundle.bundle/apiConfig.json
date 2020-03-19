@@ -1,0 +1,28 @@
+[{
+    "baseURL" : "https://uat.cubeace.com",
+    "versionUpdateURL" : "debug",
+    "baiduMapKey" : "debugBaidu",
+    "youMenSdkCode" : "debugYouMen",
+    "buglySdkKey" : "debugBugly",
+    "apnsCername" : "debugApns",
+    "env" : "测试环境",
+    "envKey" : "development",
+},{
+    "baseURL" : "https://www.cubeace.com",
+    "versionUpdateURL" : "release",
+    "baiduMapKey" : "releaseBaidu",
+    "youMenSdkCode" : "releaseYouMen",
+    "buglySdkKey" : "releaseBugly",
+    "apnsCername" : "releaseApns",
+    "env" : "正式环境",
+    "envKey" : "product",
+},{
+    "baseURL" : "https://dev.cubeace.com",
+    "versionUpdateURL" : "http://simulation.com/version/update",
+    "baiduMapKey" : "simulationBaidu",
+    "youMenSdkCode" : "simulationYouMen",
+    "buglySdkKey" : "simulationBugly",
+    "apnsCername" : "simulationApns",
+    "env" : "开发环境",
+    "envKey" : "simulation",
+}]
