@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SDKFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "CubeaceSDK提供出去供第三方使用的相应文件."
 
   # This description is used to generate tags and improve search results.
